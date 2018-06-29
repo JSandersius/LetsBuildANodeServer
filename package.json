@@ -1,0 +1,19 @@
+{
+  "name": "letsbuildanodeserver",
+  "version": "1.0.0",
+  "description": "Refresher on basic node server",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSandersius/LetsBuildANodeServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSandersius/LetsBuildANodeServer/issues"
+  },
+  "homepage": "https://github.com/JSandersius/LetsBuildANodeServer#readme"
+}
