@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JSandersius/LetsBuildANodeServer/issues"
   },
-  "homepage": "https://github.com/JSandersius/LetsBuildANodeServer#readme"
+  "homepage": "https://github.com/JSandersius/LetsBuildANodeServer#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }

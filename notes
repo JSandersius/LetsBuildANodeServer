@@ -1,2 +1,15 @@
 Setting up an Express and Node Enviroment 
+to test out this front end to be integrated into React
 
+A combination of Node and Exoress make it very easy to set up the developoment of web applications
+
+What is the Express development enviroment? 
+__
+Express develoment includes the installiation of node.js, npm PM, 
+and express application generator on ones local machine 
+
+refer to for needed information
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment
+
+node -v to check version 
+npm -v 
